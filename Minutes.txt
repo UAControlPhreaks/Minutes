@@ -1,0 +1,40 @@
+5/18/2021
+
+Control Freaks Minutes
+startup 
+
+Attendance
+    -Chet
+    -Jack
+    -Tuan
+    -Jonathan
+
+- tasks
+
+    -talk to CS department about inclusion 
+    -get point contacts for Baja SAE, Astrobotics, Tuska, Cubesat, ARA
+    -Source Incorporation as an official, Dr. Larsen
+    -source deadlines (registration)
+    -https://mysource.ua.edu/organization/acm
+    -look at (UA_ACM) source club (computing machinery club) (reach out to see if still active)
+        -they feature guest speakers
+        -hackathon
+        -competitive programming team
+        -figure out if they have a good structure
+        -link in gm
+    -main goal
+        -a specific competition
+        -international aero-robotic competition
+            -prototype possible entry
+            (http://www.aerialroboticscompetition.org/entryform.php)
+    -generate a cirriculum/flow chart github.io
+    -meeting with all POCs early june
+
+POC (point of contact)
+    -ARA - Jonathan Martini
+    -UA Space - Chet
+    -Tuska - Chet
+    -ACM -> reach out
+    -Astrobotics -> reach out
+    -Eco-Car -> Reach out
+    -Baja-SAE -> nathan? jon will reach out
